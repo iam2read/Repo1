@@ -1,4 +1,4 @@
-# My test Git environment
+# My test Git environment for training
 
 This is for test purpose
 
